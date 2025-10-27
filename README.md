@@ -51,7 +51,7 @@ We welcome contributions from the community! Whether it's bug reports, feature r
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License (license file to be added).
 
 ## 🙏 Acknowledgments
 
